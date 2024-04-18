@@ -103,8 +103,10 @@ else:
 
 1.#Use a linear search method to match the item in a list.
 ![image](https://github.com/sanjithbro/Search-Algorithms/assets/167451460/233ceffa-1cb6-4a25-8b8f-0334727387d0)
+
 2.# Find the element in a list using Binary Search(Iterative Method).
 ![image](https://github.com/sanjithbro/Search-Algorithms/assets/167451460/7c05fbee-6065-4807-9de6-9dc7f6fd083b)
+
 3.	# Find the element in a list using Binary Search (recursive Method).
 ![image](https://github.com/sanjithbro/Search-Algorithms/assets/167451460/04a552f7-5d0a-426e-92e5-1843fc9d68e3)
 
