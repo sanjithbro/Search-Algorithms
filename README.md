@@ -108,7 +108,7 @@ else:
 ![image](https://github.com/sanjithbro/Search-Algorithms/assets/167451460/7c05fbee-6065-4807-9de6-9dc7f6fd083b)
 
 3.	# Find the element in a list using Binary Search (recursive Method).
-![image](https://github.com/sanjithbro/Search-Algorithms/assets/167451460/04a552f7-5d0a-426e-92e5-1843fc9d68e3)
+![image](https://github.com/sanjithbro/Search-Algorithms/assets/167451460/3b058bdd-f921-4f86-a4f5-7d2f1523eee5)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
